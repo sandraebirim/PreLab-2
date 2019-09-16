@@ -1,20 +1,20 @@
 # PreLab-2
-[Basketball Game]
+![Basketball Game](https://github.com/sandraebirim/PreLab-2/blob/master/basketball.png)
 
-[Presentation Practice]
+![Presentation Practice](https://github.com/sandraebirim/PreLab-2/blob/master/presentation.png)
 
-[Nap Timer]
+![Nap Timer](https://github.com/sandraebirim/PreLab-2/blob/master/nap%20timer.png)
 
-[Beat Keeping Game]
+![Beat Keeping Game](https://github.com/sandraebirim/PreLab-2/blob/master/beat%20keeping.png)
 
-[Study Break Timer]
+![Study Break Timer](https://github.com/sandraebirim/PreLab-2/blob/master/study%20break.png)
 
-[Subway Estimator]
+![Subway Estimator](https://github.com/sandraebirim/PreLab-2/blob/master/subway.png)
 
-[Grilling Burger Timer]
+![Grilling Burger Timer](https://github.com/sandraebirim/PreLab-2/blob/master/grilling.png)
 
-[Workout Interval Timer]
+![Workout Interval Timer](https://github.com/sandraebirim/PreLab-2/blob/master/workout.png)
 
-[2 Minute Toothbrush Timer]
+![2 Minute Toothbrush Timer](https://github.com/sandraebirim/PreLab-2/blob/master/Toothbrush.png)
 
-[Water Drinking Reminder]
+![Water Drinking Reminder](https://github.com/sandraebirim/PreLab-2/blob/master/water.png)
